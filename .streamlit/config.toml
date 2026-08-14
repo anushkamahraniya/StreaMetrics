@@ -1,0 +1,53 @@
+[theme]
+base = "light"
+
+# Stripe/Notion-inspired light theme: off-white canvas, white cards, indigo accent.
+primaryColor = "#4F46E5"
+backgroundColor = "#F9FAFB"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#111827"
+borderColor = "#E5E7EB"
+linkColor = "#4F46E5"
+
+baseRadius = "8px"
+buttonRadius = "8px"
+showWidgetBorder = true
+showSidebarBorder = true
+
+dataframeBorderColor = "#E5E7EB"
+dataframeHeaderBackgroundColor = "#F9FAFB"
+
+# Categorical palette used by Plotly / Altair / Vega-Lite charts.
+chartCategoricalColors = ["#4F46E5", "#0EA5E9", "#10B981", "#F59E0B", "#EC4899"]
+
+# Semantic status colors (drive st.success / st.info / st.warning / st.error,
+# badges, and markdown color tags) - soft pastel backgrounds instead of the
+# default bright yellow/red.
+violetColor = "#4F46E5"
+violetBackgroundColor = "#EEF2FF"
+violetTextColor = "#3730A3"
+
+blueColor = "#0EA5E9"
+blueBackgroundColor = "#F0F9FF"
+blueTextColor = "#075985"
+
+greenColor = "#10B981"
+greenBackgroundColor = "#ECFDF5"
+greenTextColor = "#065F46"
+
+orangeColor = "#F59E0B"
+orangeBackgroundColor = "#FFFBEB"
+orangeTextColor = "#92400E"
+
+redColor = "#EF4444"
+redBackgroundColor = "#FEF2F2"
+redTextColor = "#991B1B"
+
+font = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+
+[theme.sidebar]
+backgroundColor = "#F9FAFB"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#111827"
+borderColor = "#E5E7EB"
+primaryColor = "#4F46E5"
