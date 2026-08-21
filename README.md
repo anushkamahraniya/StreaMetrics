@@ -1,5 +1,7 @@
 # 🎬 StreaMetrics — AI Creator Monetization & Cohort Analytics
 
+**🔗 Live Dashboard: [streametrics.streamlit.app](https://streametrics.streamlit.app)**
+
 An end-to-end analytics stack that turns raw watch-event logs into creator payouts, virality scores, retention curves, and a statistically validated growth lever — all explorable in a live Streamlit dashboard.
 
 ---
